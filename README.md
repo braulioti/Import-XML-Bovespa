@@ -2,6 +2,7 @@
 ### Import XML Bovespa
 
 [![Twitter: @braulio_info](https://img.shields.io/badge/contact-@braulio_info-blue.svg?style=flat)](https://twitter.com/braulio_info)
+[![Build Status](https://travis-ci.org/braulioti/Import-XML-Bovespa.svg?branch=master)](https://travis-ci.org/braulioti/Import-XML-Bovespa)
 
 Serviço de importação de dados de ações com o objetivo de capturar informações referente aos papéis das empresas da Bovespa
 
