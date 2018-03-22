@@ -1,14 +1,17 @@
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ImportXMLBovespa {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         ImportXMLToDatabase loadXML = new ImportXMLToDatabase();
 
         if (args.length > 0) {
             Connection con = loadConnection(args[0], args[1], args[2]);
+            loadXML.setFolder(args[3]);
+            loadXML.importa();
         }
     }
 
