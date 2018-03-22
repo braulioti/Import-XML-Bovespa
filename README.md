@@ -33,3 +33,11 @@ Para mais informações sobre o SemVer, por favor visite http://semver.org.
 - Twitter: http://twitter.com/braulio_info
 - GitHub: https://github.com/braulioti
 - Website: http://braulioti.com.br
+
+## Usando o projeto
+
+1 - Execute o arquivo script_0.1.0.sql no seu banco de dados PostgreSQL
+2 - Extraia os arquivos zip que você baixou do site da Bovespa para o seu computador
+3 - Execute o seguinte comando na pasta onde os arquivos XML estão guardados
+
+`java -jar import_xml_bovespa-0.1.0.jar host:port/database username password script_folder`
