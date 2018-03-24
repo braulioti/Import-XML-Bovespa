@@ -11,6 +11,7 @@ public class ImportXMLBovespa {
         if (args.length > 0) {
             Connection con = loadConnection(args[0], args[1], args[2]);
             loadXML.setFolder(args[3]);
+            loadXML.setConnection(con);
             loadXML.importa();
         }
     }
