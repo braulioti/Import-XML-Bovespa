@@ -1,3 +1,5 @@
+package entities;
+
 public class Evento {
     private String ativo;
     private String data;
@@ -7,16 +9,6 @@ public class Evento {
     private String minima;
     private String maxima;
     private String media;
-
-    Evento() {
-        this.ativo = new String();
-        this.volume = new String();
-        this.abertura = new String();
-        this.fechamento = new String();
-        this.minima = new String();
-        this.maxima = new String();
-        this.media = new String();
-    }
 
     public void setAtivo(String ativo) {
         this.ativo = ativo;

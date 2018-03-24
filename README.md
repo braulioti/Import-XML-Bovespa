@@ -1,4 +1,4 @@
-# [Import XML Bovespa v0.1.0](http://invest.brau.io)
+# [Import XML Bovespa v1.0.0](https://github.com/braulioti/Import-XML-Bovespa)
 ### Import XML Bovespa
 
 [![Twitter: @braulio_info](https://img.shields.io/badge/contact-@braulio_info-blue.svg?style=flat)](https://twitter.com/braulio_info)
@@ -12,6 +12,8 @@ Novas atualizações do projeto podem ser acompanhadas através do twitter:
 [@braulio_info](http://twitter.com/braulio_info).
 
 ## Changelog
+
+- [1.0.0 Importado dados do arquivo XML para o banco de dados](https://github.com/braulioti/Import-XML-Bovespa)
 
 ## Versionamento
 
