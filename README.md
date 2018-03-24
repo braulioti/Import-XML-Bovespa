@@ -3,7 +3,7 @@
 
 [![Twitter: @braulio_info](https://img.shields.io/badge/contact-@braulio_info-blue.svg?style=flat)](https://twitter.com/braulio_info)
 [![Build Status](https://travis-ci.org/braulioti/Import-XML-Bovespa.svg?branch=master)](https://travis-ci.org/braulioti/Import-XML-Bovespa)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5a8e5c9dc58149248f89d9530514e853)](https://www.codacy.com/app/braulioti/Import-XML-Bovespa?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=braulioti/Import-XML-Bovespa&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/61ab7475227947c3bff137c1a126075e)](https://www.codacy.com/app/braulioti/Import-XML-Bovespa?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=braulioti/Import-XML-Bovespa&amp;utm_campaign=Badge_Grade)
 
 Serviço de importação de dados de ações com o objetivo de capturar informações referente aos papéis das empresas da Bovespa
 
